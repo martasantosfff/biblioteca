@@ -1,0 +1,22 @@
+<html>
+   <head>
+  <title>pagina</title>
+   
+  </head>
+  <body>
+    <table>
+	  <tr>
+	   <td>ROUPA FEMININA</td>
+	   <td>ROUPA MASCULINA</td>
+	   <td>ROUPA INFANTIL</td>
+	  </tr>
+	  
+	  <tr>
+	   <td>ROUPA FEMININA</td>
+	   <td>ROUPA MASCULINA</td>
+	   <td>APARTIR DE ANOS</td>
+	  </tr>
+	  
+	 </table> 
+	</body>
+ </html>
